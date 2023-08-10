@@ -4,6 +4,6 @@
  * @param {number} b munst be a number
  * @returns the result
  */
-function addition(a,b){
+function additioon(a,b){
     return a+b
 }
