@@ -6,5 +6,7 @@
  */
 function additioon(a,b){
     const ans=a+b;
-    return ans;//addition done in 
+    // return answer where the result stored;
+    return ans; 
+
 }
