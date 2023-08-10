@@ -6,6 +6,7 @@
  */
 function multiplication(a,b) {
     let product=a*b;
+    // Nowretur the product;
     return product;
     
 }
