@@ -5,5 +5,6 @@
  * @returns the result
  */
 function additioon(a,b){
-    return a+b
+    const ans=a+b;
+    return ans;
 }
