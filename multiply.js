@@ -5,6 +5,7 @@
  * @returns the result
  */
 function multiplication(a,b) {
-    return a*b;
+    let product=a*b;
+    return product;
     
 }
