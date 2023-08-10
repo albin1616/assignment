@@ -4,7 +4,7 @@
  * @param {num} b 
  * @returns the result
  */
-function multiply(a,b) {
+function multiplication(a,b) {
     return a*b;
     
 }
